@@ -4,7 +4,7 @@
   "description": "A Class that creates sploded version of a word",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "jasmine"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/ezekieltech/day-three-string-splosion/issues"
   },
-  "homepage": "https://github.com/ezekieltech/day-three-string-splosion#readme"
+  "homepage": "https://github.com/ezekieltech/day-three-string-splosion#readme",
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "devDependencies": {}
 }

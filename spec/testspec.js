@@ -1,6 +1,6 @@
 'use strict';
 
-const StringSplosion = require('../app/stringSplosion.js');
+const StringSplosion = require('../app/StringSplosion.js');
 
 describe(" String splosion", function(){
 
