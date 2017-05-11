@@ -1,0 +1,22 @@
+{
+  "name": "daythreestringsplosion",
+  "version": "1.0.0",
+  "description": "A Class that creates sploded version of a word",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezekieltech/day-three-string-splosion.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Obhafuoso Ezekiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezekieltech/day-three-string-splosion/issues"
+  },
+  "homepage": "https://github.com/ezekieltech/day-three-string-splosion#readme"
+}

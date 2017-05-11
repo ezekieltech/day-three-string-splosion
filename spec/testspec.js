@@ -1,3 +1,7 @@
+'use strict';
+
+const StringSplosion = require('../app/stringSplosion.js');
+
 describe(" String splosion", function(){
 
     it("should manipulate the string", function(){
